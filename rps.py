@@ -8,7 +8,6 @@ print("Enter your choice")
 input_player = input()
 
 input_computer = ['Rock', 'Paper', 'Scissors'][randint(0, 2)]
-
 print(input_computer)
 
 print("SHOOT!")
